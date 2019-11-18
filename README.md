@@ -1,6 +1,6 @@
 # openwrt_update
 提示：
-源码来自：https://github.com/Ameykyl/openwrt/releases
+源码来自：https://github.com/Ameykyl/openwrt/tree/openwrt-19.07
 
 管理地址：192.168.1.1
 
